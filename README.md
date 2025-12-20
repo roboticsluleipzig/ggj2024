@@ -25,7 +25,7 @@ cd scripts
 
 ## Developers
 
-* [m4mbo](https://github.com/m4mbo)
+* [mbaranr](https://github.com/mbaranr)
 * [ginesmoratalla](https://github.com/ginesmoratalla)
 * [prosk-sudo](https://github.com/prosk-sudo)
 * [kamepe](https://github.com/kamepe)
